@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RPS (ISIT1801z Okulov I.D.)</string>
+    <string name="StrStartGame">Start game</string>
+    <string name="StrRules">Rules</string>
+    <string name="StrCreator">OID, All rights reserved. VER. 1.1.</string>
+    <string name="StrRock">Rock</string>
+    <string name="StrPaper">Paper</string>
+    <string name="StrScissors">Scissors</string>
+    <string name="StrExit">Exit</string>
+    <string name="TxtTotalScore">Total Score</string>
+    <string name="TxtTime">Time</string>
+    <string name="title_activity_2">Activity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="StrGoBack">Back</string>
+</resources>
